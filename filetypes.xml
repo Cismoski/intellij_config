@@ -7,6 +7,7 @@
       <mapping pattern=".gt_modbus_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_snmp_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".initial_user" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid30327" type="PLAIN_TEXT" />
       <mapping pattern=".gt_event_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_modbus_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_eth_config" type="PLAIN_TEXT" />
@@ -25,8 +26,8 @@
       <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_var_config" type="PLAIN_TEXT" />
       <mapping ext="dmt" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
