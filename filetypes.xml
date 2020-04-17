@@ -20,8 +20,8 @@
       <mapping pattern=".gt_email_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_sequences" type="PLAIN_TEXT" />
       <mapping pattern=".gt_usb_config" type="PLAIN_TEXT" />
-      <mapping pattern=".gt_payload_config" type="PLAIN_TEXT" />
       <mapping pattern="app-food" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_payload_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_var_config" type="PLAIN_TEXT" />
