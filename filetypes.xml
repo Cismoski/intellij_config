@@ -1,5 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".gt_dianet_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_modem" type="PLAIN_TEXT" />
@@ -20,8 +21,8 @@
       <mapping pattern=".gt_email_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_sequences" type="PLAIN_TEXT" />
       <mapping pattern=".gt_usb_config" type="PLAIN_TEXT" />
-      <mapping pattern=".gt_payload_config" type="PLAIN_TEXT" />
       <mapping pattern="app-food" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_payload_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_var_config" type="PLAIN_TEXT" />
