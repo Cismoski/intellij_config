@@ -26,6 +26,7 @@
       <mapping pattern=".gt_database_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_var_config" type="PLAIN_TEXT" />
+      <mapping pattern="test_credential_item.py" type="PLAIN_TEXT" />
       <mapping ext="dmt" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
