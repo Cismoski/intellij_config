@@ -16,6 +16,7 @@
       <mapping pattern=".gt_user" type="PLAIN_TEXT" />
       <mapping pattern=".gt_target_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_proto" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gt_rtu_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_protocol" type="PLAIN_TEXT" />
       <mapping pattern=".gt_target_config" type="PLAIN_TEXT" />
