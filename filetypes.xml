@@ -8,6 +8,7 @@
       <mapping pattern=".gt_modbus_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_snmp_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".initial_user" type="PLAIN_TEXT" />
+      <mapping pattern="teste5" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid30327" type="PLAIN_TEXT" />
       <mapping pattern=".gt_event_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
