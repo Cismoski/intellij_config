@@ -7,16 +7,16 @@
       <mapping pattern=".gt_protocol" type="PLAIN_TEXT" />
       <mapping pattern="test_credential_item.py" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_config" type="PLAIN_TEXT" />
-      <mapping pattern="teste5" type="PLAIN_TEXT" />
       <mapping pattern=".gt_usb_config" type="PLAIN_TEXT" />
+      <mapping pattern="teste5" type="PLAIN_TEXT" />
       <mapping pattern=".gt_modbus_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_payload_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_email_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_sequences" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid30327" type="PLAIN_TEXT" />
       <mapping pattern=".gt_email_config" type="PLAIN_TEXT" />
-      <mapping pattern=".initial_user" type="PLAIN_TEXT" />
       <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".initial_user" type="PLAIN_TEXT" />
       <mapping pattern=".gt_rtu_config" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gt_eth_config" type="PLAIN_TEXT" />
