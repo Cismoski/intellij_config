@@ -1,0 +1,40 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gt_user" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_event_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_protocol" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_database_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_usb_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_modbus_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_payload_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_email_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_sequences" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid30327" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_email_config" type="PLAIN_TEXT" />
+      <mapping pattern=".initial_user" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_rtu_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_eth_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_modbus_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_modem" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_target_config" type="PLAIN_TEXT" />
+      <mapping pattern="app-food" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_snmp_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_target_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_database_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_proto" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_dianet_config" type="PLAIN_TEXT" />
+      <mapping ext="dmt" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
