@@ -19,12 +19,12 @@
       <mapping pattern=".gt_payload_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_email_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_sequences" type="PLAIN_TEXT" />
-      <mapping pattern=".attach_pid30327" type="PLAIN_TEXT" />
       <mapping pattern=".gt_database_var_config" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid30327" type="PLAIN_TEXT" />
       <mapping pattern=".gt_proto" type="PLAIN_TEXT" />
       <mapping pattern=".gt_email_config" type="PLAIN_TEXT" />
-      <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".initial_user" type="PLAIN_TEXT" />
+      <mapping pattern=".gt_payload_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_rtu_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_dianet_config" type="PLAIN_TEXT" />
       <mapping ext="dmt" type="PLAIN_TEXT" />
