@@ -18,6 +18,10 @@
           <option name="url" value="https://gitlab.com/dianet-d200/aio-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="gabrielcismoski" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/dianet" />
