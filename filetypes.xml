@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="檡᭣脏㳗㿡皹藵᭿揁" type="AUTO_DETECTED" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gt_database_var_config" type="PLAIN_TEXT" />
       <mapping pattern=".gt_target_var_config" type="PLAIN_TEXT" />
